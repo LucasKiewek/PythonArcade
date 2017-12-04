@@ -2,7 +2,7 @@
 
 import random
 
-from ArcadeMethods2 import *
+from Methods import *
 
 def main():
     money = 500
